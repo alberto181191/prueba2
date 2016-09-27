@@ -1,0 +1,5 @@
+git remote add rep-github https://github.com/alberto181191/Pruebas  ///agrega el repositorio de github al local
+git remote -v                                                       ///lista de repositorios vinculados
+git push rep-github master   					    ///agrega el archivo de la rama escrita a github
+git add comandos_git.txt					    ///agrega proyecto o archivo al repositorio
+git init							    ///Crea un repositorio
