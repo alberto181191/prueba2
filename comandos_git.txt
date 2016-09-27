@@ -3,3 +3,4 @@ git remote -v                                                       ///lista de 
 git push rep-github master   					    ///agrega el archivo de la rama escrita a github
 git add comandos_git.txt					    ///agrega proyecto o archivo al repositorio
 git init							    ///Crea un repositorio
+git log
